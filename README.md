@@ -23,7 +23,7 @@ conda activate heckman-fa
 ```
 4. Install packages
 ```
-pip install -r requirements.txtt
+pip install -r requirements.txt
 ```
 
 ### Heckman-FA
